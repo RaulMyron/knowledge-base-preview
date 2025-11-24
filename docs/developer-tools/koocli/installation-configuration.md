@@ -2,10 +2,8 @@
 title: Installation and Configuration
 layout: default
 parent: KooCLI
-grand_parent: Developer Tools
 permalink: /docs/developer-tools/koocli/installation-configuration
 ---
-<img width="450px" height="102px" src="https://console-static.huaweicloud.com/static/authui/20210202115135/public/custom/images/logo-en.svg">
 
 # KooCLI - Huawei Cloud Command Line Interface
 
@@ -13,7 +11,7 @@ V1.0 – November 2025
 
 | **Version**       | **Author**                     | **Description**      |
 | ----------------- | ------------------------------ | -------------------- |
-| V1.0 – 2025-11    | Raul Myron 50054635            | Initial Version      |
+| V1.0 – 2025-11-24 | Raul Myron 50054635            | Initial Version      |
 
 ## Introduction
 
@@ -41,7 +39,7 @@ hcloud configure show
 During configuration, you will be prompted for:
 - **Access Key (AK)**: Your access key
 - **Secret Key (SK)**: Your secret key
-- **Region**: Huawei Cloud region (for Brazil: `sa-brazil-1`)
+- **Region**: Huawei Cloud region (for LA-Sao Paulo1: `sa-brazil-1`)
 
 ### Timeout Adjustments (Recommended for Brazil)
 
