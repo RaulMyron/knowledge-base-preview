@@ -131,4 +131,4 @@ Para lista completa de serviços, execute `hcloud` após a instalação.
 
 ## Referências
 
-- [Documentação Oficial KooCLI](https://support.huaweicloud.com/intl/en-us/qs-hcli/hcli_02_003.html)
+- [Documentação Oficial](https://support.huaweicloud.com/intl/en-us/productdesc-hcli/hcli_01.html)
