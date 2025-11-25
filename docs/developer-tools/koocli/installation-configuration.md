@@ -12,6 +12,7 @@ V1.0 – November 2025
 | **Version**       | **Author**                     | **Description**      |
 | ----------------- | ------------------------------ | -------------------- |
 | V1.0 – 2025-11-24 | Raul Myron 50054635            | Initial Version      |
+| V1.0 – 2025-11-24 | Gabriel Gutierrez 00817435     | Document Review      |
 
 ## Introduction
 

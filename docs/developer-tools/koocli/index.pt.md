@@ -11,4 +11,4 @@ Interface de linha de comando oficial para gerenciamento de recursos da Huawei C
 
 O KooCLI fornece uma interface de linha de comando unificada para interagir com os serviços da Huawei Cloud, permitindo automação, scripting e gerenciamento eficiente de recursos.
 
-[Documentação Oficial](https://support.huaweicloud.com/intl/en-us/qs-hcli/hcli_02_003.html)
+[Documentação Oficial](https://support.huaweicloud.com/intl/en-us/productdesc-hcli/hcli_01.html)
